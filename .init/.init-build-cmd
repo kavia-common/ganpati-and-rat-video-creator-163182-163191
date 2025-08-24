@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/ganpati-and-rat-video-creator-163182-163191/video_generator_frontend"
+}
